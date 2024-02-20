@@ -8,7 +8,7 @@
 
 Answer:
 
-**1.} Solution**
+**1.}**
 Maybe the fastest way is just to run:
 
 ```shell
@@ -38,7 +38,7 @@ k8s-c2-AC
 k8s-c3-CCC
 ```
 
-**2.} Solution**
+**2.}**
 Next create the first command:
 ```shell
 vi /opt/course/1/context_default_kubectl.sh
@@ -50,7 +50,7 @@ Verify execution
 sh /opt/course/1/context_default_kubectl.sh
 k8s-c1-H
 ```
-**3.} Solution**
+**3.}**
 And the second one:
 
 ```shell
