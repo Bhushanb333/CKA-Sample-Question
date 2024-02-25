@@ -1,4 +1,4 @@
-# Question 2 Kube-proxy
+# Question 12 Kube-proxy
 
 You're asked to confirm that kube-proxy is running correctly on all nodes in Namespace `project-hamster`. Perform the following steps:
 
