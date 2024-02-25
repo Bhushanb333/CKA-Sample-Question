@@ -1,4 +1,4 @@
-# Question 1 | Contexts
+# Question 1 | Context
 
 1.} You have access to multiple clusters from your main terminal through `kubectl` contexts. Write all those context names into `/opt/course/1/contexts`.
 
