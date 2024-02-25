@@ -25,7 +25,7 @@ The exam consists of 15-20 performance-based tasks that you need to complete wit
 1. This is a hands-on exam. So make sure you're very comfortable with the `kubectl` command and practice typing commands quickly and accurately. Use aliases if needed.
 
     ```bash
-        alias k=kubectl
+    alias k=kubectl
     ```
 
 2. Leverage imperative commands: Refer to the kubectl cheatsheet for quick assistance.
@@ -37,8 +37,8 @@ The exam consists of 15-20 performance-based tasks that you need to complete wit
 5. Rather than writing YAML from scratch, use --dry-run with the createand runcommands to generate YAML. Edit it to your needs using vimbefore running e.g.
 
     ```bash
-        export do="-o yaml --dry-run=client"
-        export now="--grace-period 0 --force"
+    export do="-o yaml --dry-run=client"
+    export now="--grace-period 0 --force"
     ```
 
 The course also provides a browser terminal. The following questions will give you an idea of CKA.
