@@ -41,7 +41,7 @@ The exam consists of 15-20 performance-based tasks that you need to complete wit
     export now="--grace-period 0 --force"
     ```
 
-The course also provides a browser terminal. The following questions will give you an idea of CKA.
+The course also provides a browser terminal. Practicing above question set will give you an idea of CKA.
 
 ## For Additional Practice Use below platform
 
